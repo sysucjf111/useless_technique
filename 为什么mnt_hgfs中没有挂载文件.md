@@ -1,0 +1,1 @@
+https://askubuntu.com/questions/74825/why-dont-shared-files-show-up-in-hgfs
